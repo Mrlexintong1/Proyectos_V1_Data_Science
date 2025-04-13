@@ -42,4 +42,4 @@ Proyectos_Python_Ejercicios_07_al_15/
 
 **Carlos Tlali Rosales**  
 Estudiante de Ingeniería en Ciberseguridad | Data & Cloud Enthusiast | Jr. Cybersecurity Analyst  
-GitHub: [Mrlexinton1](https://github.com/Mrlexinton1)
+[LinkedIn](https://www.linkedin.com/in/carlostlali/)
