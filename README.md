@@ -21,7 +21,8 @@ Desarrollar habilidades clave en Python aplicando estructuras de control, listas
 ## 👨‍💻 Autor
 
 **Carlos Tlali Rosales**  
-`Estudiante de Ingeniería en Ciberseguridad | Data & Cloud Enthusiast |
+`Estudiante de Ingeniería en Ciberseguridad | Data & Cloud Enthusiast |[LinkedIn](https://www.linkedin.com/in/carlostlali/) 
+
 ## 📜 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
