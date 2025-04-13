@@ -1,4 +1,0 @@
-# Dependencias generales para los proyectos básicos en Python
-# Puedes instalar estas dependencias con: pip install -r requirements.txt
-
-# (Este conjunto de scripts no requiere librerías externas por ahora)
